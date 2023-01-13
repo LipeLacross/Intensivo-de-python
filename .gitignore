@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#outros
+*.mp4
+*.zip
+Aula 1/Arquivo Inicial - Aula 1.ipynb
+Aula 2/Aula 2 - Gabarito.ipynb
+Aula 3/Gabarito - Aula 3.ipynb
+Aula 4/Gabarito - Projeto Ciência de Dados.ipynb
