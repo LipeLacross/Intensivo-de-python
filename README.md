@@ -1,3 +1,5 @@
+## 🌐 [English Version of README](README_EN.md)
+
 # Projeto de Análise de Dados
 
 Este projeto de análise de dados é dividido em várias aulas e inclui arquivos de apostilas, notebooks Jupyter e conjuntos de dados para práticas e análises. O objetivo é proporcionar uma experiência de aprendizado prática com Python, análise de dados e visualização.
